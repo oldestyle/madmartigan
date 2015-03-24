@@ -36,6 +36,7 @@ Using a number of video displays, the cluster could be used to develop and demon
 ## References
 - http://www.midwesternmac.com/blogs/jeff-geerling/introducing-dramble-raspberry
 - https://github.com/geerlingguy/raspberry-pi-dramble
+- https://servercheck.in/blog/lessons-learned-building-raspberry-pi-dramble
 - http://nginx.org/en/docs/http/load_balancing.html
 - http://coen.boisestate.edu/ece/files/2013/05/Creating.a.Raspberry.Pi-Based.Beowulf.Cluster_v2.pdf
 - http://www.southampton.ac.uk/~sjc/raspberrypi/pi_supercomputer_southampton.htm
