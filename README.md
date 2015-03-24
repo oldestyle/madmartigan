@@ -8,7 +8,7 @@ By building a cluster of Raspberry Pi computers, one can design and test complic
 
 
 ## Objectives
-I intend to design and build a small cluster of Raspberry Pi computers and use the device for researching and developing advanced web serving solutions. The goal of this training and research is to improve performance and reliability of the College's website for all campuses.
+I intend to design and build a small cluster of Raspberry Pi computers and use the device for researching and developing advanced web serving solutions. The goal of this training and research is to develop systems and processes that may directly improve performance and reliability of the College's website for all campuses.
 
 ### Advanced hardware design / build
 Using equipment at Tenth St Campus, a custom case will be designed and built to contain the computing hardware. New design and production techniques will be explored and documented through this process.
@@ -22,3 +22,4 @@ Using equipment at Tenth St Campus, a custom case will be designed and built to 
 ## References
 - http://www.midwesternmac.com/blogs/jeff-geerling/introducing-dramble-raspberry
 - https://github.com/geerlingguy/raspberry-pi-dramble
+- http://nginx.org/en/docs/http/load_balancing.html
