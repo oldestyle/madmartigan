@@ -19,7 +19,7 @@ Using equipment at Tenth St Campus, a custom case will be designed and built to 
   - contain all wiring and accessories
     - usb charging device to power Pis
     - network cables, switch
-  - each Pi gets a small protoboard with an RGB LED status light
+  - each Pi gets a small protoboard with an RGB LED status light. This allows the device to *visualize* server activity while load balancing and performing other tasks.
   
 
 ### Software testing, development
@@ -32,6 +32,9 @@ Once the Madmartigan device is built, it can be used to test and develop various
 
 #### Video Wall multi panel displays
 Using a number of video displays, the cluster could be used to develop and demonstrate large scale display and technology.
+
+#### Distributed digital signage systems
+The device can be used to demonstrate and tune digital signage software for Raspberry Pi hardware. A distributed system wherein the signage assets are sourced from one server and distributed to other devices, reducing server and network load.
 
 ## References
 - http://www.midwesternmac.com/blogs/jeff-geerling/introducing-dramble-raspberry
