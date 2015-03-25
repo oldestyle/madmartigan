@@ -6,7 +6,7 @@ The [Raspberry Pi](http://raspberrypi.org) is a single-board computer developed 
 
 By building a cluster of Raspberry Pi computers, one can design and test complicated network configurations and sofware solutions while emulating a larger scale network. This keeps such development off of the production servers, and allows for rapid prototyping in Linux systems without using additional IT resources. Building a similar system with full-size computer hardware would be extremely expensive and require a large amount of space and electricity to operate. Some examples of Raspberry Pi clusters built at different Universities are included in the references at the bottom of this page.
 
-![alt text](https://github.com/oldestyle/madmartigan/lib/img/architecture.png "Network architecture of the Madmartigan device")
+![alt text](lib/img/architecture.png "Network architecture of the Madmartigan device")
 
 ## Objectives
 I intend to design and build a small cluster of Raspberry Pi computers and use the device for researching and developing advanced web serving solutions. The goal of this training and research is to develop systems and processes that may directly improve performance and reliability of the College's website for all campuses.
