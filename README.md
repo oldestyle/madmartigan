@@ -28,7 +28,7 @@ See the [Bill of Materials](bom.md) for details on materials required for this p
 Once the Madmartigan device is built, it can be used to test and develop various types of networking software and solutions.
 
 #### Configuration Deployment with Ansible
-... 
+Ansible is an open-source software platform for configuring and managing computers.
 
 #### Load balancing with Drupal on Nginx
 > Load balancing across multiple application instances is a commonly used technique for optimizing resource utilization, maximizing throughput, reducing latency, and ensuring fault-tolerant configurations.
