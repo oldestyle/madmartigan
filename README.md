@@ -1,10 +1,10 @@
 # Madmartigan
-A Raspberry Pi Clustering Project for the Purpose of learning stuff.
+A Raspberry Pi Clustering Project.
 
 ## Summary
 The [Raspberry Pi](http://raspberrypi.org) is a single-board computer developed in the the UK with the intention of promoting the teaching of basic computer science in schools. The small form factor and low cost of the Raspberry Pi have made it ideal for more advanced research projects as well.
 
-By building a cluster of Raspberry Pi computers, one can design and test complicated network configurations and sofware solutions while emulating a larger scale network. This keeps such development off of the production servers, and allows for rapid prototyping in Linux systems without using additional IT resources. Building a similar system with full-size computer hardware would be extremely expensive and require a large amount of space and electricity to operate. Some examples of Raspberry Pi clusters built at different Universities are included in the references at the bottom of this page.
+By building a cluster of Raspberry Pi computers, one can design and test complicated network configurations and software solutions while emulating a larger scale network. This keeps such development off of the production servers, and allows for rapid prototyping in Linux systems without using additional IT resources. Building a similar system with full-size computer hardware would be extremely expensive and require a large amount of space and electricity to operate. Some examples of Raspberry Pi clusters built at different Universities are included in the references at the bottom of this page.
 
 ![alt text](lib/img/architecture.png "Network architecture of the Madmartigan device")
 
@@ -21,10 +21,14 @@ Using equipment at Tenth St Campus, a custom case will be designed and built to 
     - usb charging device to power Pis
     - network cables, switch
   - each Pi gets a small protoboard with an RGB LED status light. This allows the device to *visualize* server activity while load balancing and performing other tasks.
-  
+
+See the [Bill of Materials](bom.md) for details on materials required for this project.
 
 ### Software testing, development
 Once the Madmartigan device is built, it can be used to test and develop various types of networking software and solutions.
+
+#### Configuration Deployment with Ansible
+... 
 
 #### Load balancing with Drupal on Nginx
 > Load balancing across multiple application instances is a commonly used technique for optimizing resource utilization, maximizing throughput, reducing latency, and ensuring fault-tolerant configurations.
