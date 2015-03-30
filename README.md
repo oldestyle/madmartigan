@@ -6,7 +6,7 @@ The [Raspberry Pi](http://raspberrypi.org) is a single-board computer developed 
 
 By building a cluster of Raspberry Pi computers, one can design and test complicated network configurations and software solutions while emulating a larger scale network. This keeps such development off of the production servers, and allows for rapid prototyping in Linux systems without using additional IT resources. Building a similar system with full-size computer hardware would be extremely expensive and require a large amount of space and electricity to operate. Some examples of Raspberry Pi clusters built at different Universities are included in the references at the bottom of this page.
 
-![architecture diagram](lib/img/architecture.png "Network architecture of the Madmartigan device")
+
 
 ## Objectives
 I intend to design and build a small cluster of Raspberry Pi computers and use the device for researching and developing advanced web serving solutions. The goal of this training and research is to develop systems and processes that may directly improve performance and reliability of the College's website for all campuses.
@@ -32,11 +32,13 @@ Once the Madmartigan device is built, it can be used to test and develop various
 Ansible is an open-source software platform for configuring and managing computers.
 
 #### Load balancing with Drupal on Nginx
+![architecture diagram](lib/img/architecture.png "Network architecture of the Madmartigan device")
 > Load balancing across multiple application instances is a commonly used technique for optimizing resource utilization, maximizing throughput, reducing latency, and ensuring fault-tolerant configurations.
 
 >It is possible to use nginx as a very efficient HTTP load balancer to distribute traffic to several application servers and to improve performance, scalability and reliability of web applications with nginx.
 
 #### Video Wall multi panel displays
+![video wall](lib/img/videowall.png "video wall - matrix of video displays")
 Using a number of video displays, the cluster could be used to develop and demonstrate large scale display and technology.
 
 #### Distributed digital signage systems
