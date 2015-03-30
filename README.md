@@ -38,7 +38,7 @@ Ansible is an open-source software platform for configuring and managing compute
 >It is possible to use nginx as a very efficient HTTP load balancer to distribute traffic to several application servers and to improve performance, scalability and reliability of web applications with nginx.
 
 #### Video Wall multi panel displays
-![video wall](lib/img/videowall.png "video wall - matrix of video displays")
+![video wall](lib/img/videowall.jpg "video wall - matrix of video displays")
 Using a number of video displays, the cluster could be used to develop and demonstrate large scale display and technology.
 
 #### Distributed digital signage systems
