@@ -1,5 +1,7 @@
 # Madmartigan
-A Raspberry Pi Clustering Project.
+####A Raspberry Pi Clustering Project.####
+Please consider for approval funding for this PD project. Included in the costs are electronics components, reference books, and some basic materials. All of the software and most of the training and references for this project are open-source and freely available on the web.
+
 
 ## Summary
 The [Raspberry Pi](http://raspberrypi.org) is a single-board computer developed in the the UK with the intention of promoting the teaching of basic computer science in schools. The small form factor and low cost of the Raspberry Pi have made it ideal for more advanced research projects as well.
@@ -12,6 +14,8 @@ By building a cluster of Raspberry Pi computers, one can design and test complic
 I intend to design and build a small cluster of Raspberry Pi computers and use the device for researching and developing advanced web serving solutions. The goal of this training and research is to develop systems and processes that may directly improve performance and reliability of the College's website for all campuses.
 
 ### Advanced hardware design / build
+To save money, and provide more opportunity for creativity and learning, the case for the Pi cluster will be built using tools on campus. This will be a fraction of the price of commercially available Raspberry Pi cases.
+
 Using equipment at Tenth St Campus, a custom case will be designed and built to contain the computing hardware. New design and production techniques will be explored and documented through this process.
 
 - **Case** to be designed with CAD tools, cut from acrylic on laser cutter
@@ -39,14 +43,15 @@ Ansible is an open-source software platform for configuring and managing compute
 
 #### Video Wall multi panel displays
 ![video wall](lib/img/videowall.jpg "video wall - matrix of video displays")
-Using a number of video displays, the cluster could be used to develop and demonstrate large scale display and technology.
+Using a number of video displays, the cluster could be used to develop and demonstrate large scale display and technology. Dividing a single image source into several displays is possible with the six Raspberry Pis.
 
 #### Distributed digital signage systems
-The device can be used to demonstrate and tune digital signage software for Raspberry Pi hardware. A distributed system wherein the signage assets are sourced from one server and distributed to other devices, reducing server and network load.
+The device can be used to demonstrate and tune digital signage software for Raspberry Pi hardware. A distributed system wherein the signage assets are sourced from one server then distributed and stored on remote devices, reducing server and network load.
 
 #### Data Structure Servers - Redis
-From WikiPedia:
+One of the components of the load balancing server setup is a Redis server, which is an open source _data structure server_. Learning how to use and get the most of Redis will be a major component of the project.
 
+From WikiPedia:
 >Redis is a data structure server. It is open-source, networked, in-memory, and stores keys with optional durability. The development of Redis has been sponsored by Pivotal Software since May 2013; before that, it was sponsored by VMware. According to the monthly ranking by DB-Engines.com, Redis is the most popular key-value store.
 
 
