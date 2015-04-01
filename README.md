@@ -4,7 +4,7 @@ Please consider for approval funding for this PD project. Included in the costs 
 
 
 ## Summary
-The [Raspberry Pi](http://raspberrypi.org) is a single-board computer developed in the the UK with the intention of promoting the teaching of basic computer science in schools. The small form factor and low cost of the Raspberry Pi have made it ideal for more advanced research projects as well.
+The [Raspberry Pi](http://raspberrypi.org) is a single-board computer [developed in the the UK](http://www.wired.co.uk/magazine/archive/2013/07/features/the-life-of-pi) with the intention of promoting the teaching of basic computer science in schools. The small form factor and low cost of the Raspberry Pi have made it ideal for more advanced research projects as well.
 
 By building a cluster of Raspberry Pi computers, one can design and test complicated network configurations and software solutions while emulating a larger scale network. This keeps such development off of the production servers, and allows for rapid prototyping in Linux systems without using additional IT resources. Building a similar system with full-size computer hardware would be extremely expensive and require a large amount of space and electricity to operate. Some examples of Raspberry Pi clusters built at different Universities are included in the references at the bottom of this page.
 
@@ -14,9 +14,9 @@ By building a cluster of Raspberry Pi computers, one can design and test complic
 I intend to design and build a small cluster of Raspberry Pi computers and use the device for researching and developing advanced web serving solutions. The goal of this training and research is to develop systems and processes that may directly improve performance and reliability of the College's website for all campuses.
 
 ### Advanced hardware design / build
-To save money, and provide more opportunity for creativity and learning, the case for the Pi cluster will be built using tools on campus. This will be a fraction of the price of commercially available Raspberry Pi cases.
+To save money, and provide more opportunity for creativity and learning, the case for the Pi cluster will be built using tools on campus. This will be a fraction of the price of commercially available Raspberry Pi cases, and will allow me to include the design templates I create so that the *entire project* can be open source – hardware and all.
 
-Using equipment at Tenth St Campus, a custom case will be designed and built to contain the computing hardware. New design and production techniques will be explored and documented through this process.
+Using equipment at Tenth St Campus, a custom case will be designed and built to contain the computing hardware. Innovative design and production techniques will be explored and documented through this process.
 
 - **Case** to be designed with CAD tools, cut from acrylic on laser cutter
   - capacity for six Raspberry Pi 2 boards
@@ -56,6 +56,7 @@ From WikiPedia:
 
 
 ## References
+- http://www.wired.co.uk/magazine/archive/2013/07/features/the-life-of-pi
 - http://www.midwesternmac.com/blogs/jeff-geerling/introducing-dramble-raspberry
 - https://github.com/geerlingguy/raspberry-pi-dramble
 - https://servercheck.in/blog/lessons-learned-building-raspberry-pi-dramble
